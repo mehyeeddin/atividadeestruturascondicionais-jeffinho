@@ -1,1 +1,9 @@
 # atividadeestruturascondicionais-jeffinho
+
+1- a. verdadeiro
+   b. falso
+   c. verdadeiro
+   d. verdadeiro
+   e. verdadeiro
+   f. falso
+   g. verdadeiro
